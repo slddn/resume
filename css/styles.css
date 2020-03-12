@@ -1,0 +1,15 @@
+body {
+   font-family: Arial, Helvetica, sans-serif;
+   color:#000;
+   margin-left:50px;
+   background-color:#ecdfc8;
+}
+hr {height: 4px; background-color: green; border-width: 2px;}
+a {text-decoration: none; color: #323edd;}
+h1{color: green; margin-bottom: 0;} 
+h3 {color: black; margin-bottom: 0;}
+h4 {margin-top: 0.25em; margin-bottom: 0.25em; color: green;}
+ul {margin-top: 0;}
+.addr {color: black;}
+.group1 {color: black;}
+.school {color:black;}
